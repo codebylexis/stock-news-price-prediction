@@ -55,25 +55,25 @@ The model consists of:
 
 ## Target Class Distribution
 
-<img src="https://github.com/user-attachments/assets/9dfc9535-c3dd-4b05-948c-846dca6d85b1">
-<br>
-<p align="center"> 
-<img src="https://github.com/user-attachments/assets/0770b64f-147a-405b-8aea-f2a99aa25407">
-</p>    
+### Count of Each Class (Bar Chart)
+
+![Class Distribution - Count](Graphs%20and%20Pictures/Distribution%20of%20Dependent%20Variable.png)
+
+### Percentage of Each Class (Pie Chart)
+
+![Class Distribution - Percentage](Graphs%20and%20Pictures/Distribution%20of%20Dependent%20Variable%20in%20Percentage.png)
 
 ---
 
 ## Model Details
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/382ce46b-4bca-4df3-800e-aacf7afa0da4">
-</p>
+![Model Architecture](Graphs%20and%20Pictures/model.png)
 
 ---
 
 ## Model Training
 
-<img src="https://github.com/user-attachments/assets/a8057142-d987-4444-88e6-b80688eeb819" alt="loss_accuracy">
+![Model Training - Loss and Accuracy](Graphs%20and%20Pictures/loss-accuracy.png)
 
 The model was trained for 5 epochs using the Adam optimizer and Mean Squared Error (MSE) as the loss function. It achieved:
 
@@ -86,15 +86,15 @@ The model was trained for 5 epochs using the Adam optimizer and Mean Squared Err
 
 ## Confusion Matrix
 
-<img src="https://github.com/user-attachments/assets/5e5b24a7-f6d1-459e-81f5-1085d1c74c36" 
-     style="display: block; margin-left: auto; margin-right: auto;">
+![Confusion Matrix](Graphs%20and%20Pictures/Confusion%20Matrix.png)
+
 
 ---
 
 ## Classification Report on Development Dataset
 
-<img src="https://github.com/user-attachments/assets/08f34bed-76a0-4271-96d7-01969564a889" 
-     style="display: block; margin-left: auto; margin-right: auto;">
+![Classification Report](Graphs%20and%20Pictures/Classification%20Report.png)
+
 
 ---
 

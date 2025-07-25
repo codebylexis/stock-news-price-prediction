@@ -57,11 +57,11 @@ The model consists of:
 
 ### Count of Each Class (Bar Chart)
 
-![Class Distribution - Count](Graphs%20and%20Pictures/Distribution%20of%20Dependent%20Variable.png)
+![Class Distribution - Count](Graphs%20and%20Pictures/Distribution%20Ff%20Dependent%20Variable.png)
 
 ### Percentage of Each Class (Pie Chart)
 
-![Class Distribution - Percentage](Graphs%20and%20Pictures/Distribution%2Off%20Dependent%20Variable%20In%20Percentage.png)
+![Class Distribution - Percentage](Graphs%20and%20Pictures/Distribution%2Of%20Dependent%20Variable%20In%20Percentage.png)
 
 ---
 

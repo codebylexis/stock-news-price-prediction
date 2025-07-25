@@ -61,7 +61,7 @@ The model consists of:
 
 ### Percentage of Each Class (Pie Chart)
 
-![Class Distribution - Percentage](Graphs%20and%20Pictures/Distribution%20of%20Dependent%20Variable%20in%20Percentage.png)
+![Class Distribution - Percentage](Graphs%20and%20Pictures/Distribution%2Off%20Dependent%20Variable%20In%20Percentage.png)
 
 ---
 
